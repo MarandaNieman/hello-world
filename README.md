@@ -1,2 +1,3 @@
 # hello-world
-Hello world first repository
+
+First branch and commit in GitHub! Whahooo 
